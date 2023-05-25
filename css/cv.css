@@ -1,0 +1,81 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    background-image: url('../img/banner.JPG');
+}
+.mifoto{
+    width: 100px;
+
+  }
+  .principal{
+    background-color: #C4C4C4;
+  }
+  nav{
+    background-color: #C4C4C4;
+  }
+  .menu{
+    list-style: none;}
+
+  #espacio{
+    margin: 100px;
+  }
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #005677;
+    letter-spacing: 5px;
+
+  }
+  .subtitulos{
+    background-color: #C4C4C4;
+  }
+  h2{
+    float:inline-start;
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 17px;
+    padding-left: 15px;
+  }
+  .temas {
+    font-style: italic;
+    font-weight: bold;  
+  }
+  .años {
+    font-weight: bold;
+    padding-left: 25px;
+  }
+  .p1 {
+    margin-left: 170px;
+  }
+  .p2 {
+    margin-left: 122px;
+  }
+  .p3 {
+    margin-left: 170px;
+  }
+  
+  footer {
+    background-color: #005677;
+    text-align: center;
+    color: #FFFFFF;
+    font-style: italic;
+    margin-top: 100px;
+  }
+  
+  .name {
+    margin-right: 10px;
+    margin-bottom: 2px;
+  }
+ img{
+    margin-top: 7px;
+    margin-right: 7px;
+    width: 15px;
+ }
+  .gith{
+    width: 20px;
+  }
